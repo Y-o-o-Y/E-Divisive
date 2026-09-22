@@ -48,4 +48,6 @@ alpha 這裡是敏感度參數，取值介於0-2
 
 算法成功精確的分辨Regime Shifts
 
+最後要注意它終究使用到了全局視野，說到底還是Offline
+
 論文參考: A Nonparametric Approach for Multiple Change Point Analysis of Multivariate Data
